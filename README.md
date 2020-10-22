@@ -1,6 +1,7 @@
 # direlkhir_0_1
 
-A new Flutter project.
+webview version of dir-elkhir.com
+setuped for ios
 
 ## Getting Started
 
